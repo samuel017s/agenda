@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient( rgb(17, 47, 218), rgb(194, 9, 231), rgb(222, 9, 204));
+    height: 200vh;
+    font-style: italic;
+}
